@@ -1,5 +1,5 @@
 // ⚠️ अपना Worker URL यहाँ डालो (user app जैसा ही)
-const API = 'https://quiz-api.YOUR-SUBDOMAIN.workers.dev';
+const API = 'https://quize-pratice.bot41059.workers.dev';
 
 // ═══════ HELPERS ═══════
 async function api(path, opts = {}) {
